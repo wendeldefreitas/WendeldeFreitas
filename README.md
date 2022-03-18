@@ -1,4 +1,4 @@
-### Olá, eu sou o Wendel de Freitas! Desenvolvedor Front End, totalmente viciado em tecnologias!
+## Olá, eu sou o Wendel de Freitas! Desenvolvedor Front End e amante de tecnologias.
 <br/>
 
 <!-- TABELA DE STATUS DOS COMMITS -->
