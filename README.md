@@ -13,9 +13,9 @@ Cursos, minha noiva :heart_eyes: e meus cachorros :dog2: são o suficiente para 
 <!--LINKS DE ONDE ME ACHAR-->
 ## Onde me achar? (clique nos links abaixo)!
 <div align="center">
-  <a href="https://instagram.com/wendinhodefreitas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wendinhodefreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wendel-de-freitas-mendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/wendinhodefreitas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="__blank"></a>
+  <a href = "mailto:wendinhodefreitas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="__blank"></a>
+  <a href="https://www.linkedin.com/in/wendel-de-freitas-mendes" target="__blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="__blank"></a> 
 </div></br>
   
 <!-- ICONES DAS TECNOLOGIAS QUE EU USO -->
