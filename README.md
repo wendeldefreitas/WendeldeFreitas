@@ -1,13 +1,10 @@
-# Olá, eu sou o Wendel de Freitas! Desenvolvedor Front End e amante de tecnologias.
+# Olá, eu sou o Wendel de Freitas!.
 <br/>
 
 <!--DESCRIÇÃO PESSOAL-->
 
 Descobri programação no curso **técnico de informática** :computer: e na **faculdade de desenvolvimento de sistemas** :mortar_board:, mas via programação como um hobby.
-Em 2020 resolvi “mergulhar de cabeça” no mundo do desenvolvimento.
-Comecei com linguagem de programação  python para fazer jogos, mas não me vi como desenvolvedor de jogos, então por influência dos meus amigos próximos que já são programadores, comecei na área de **Front End** em 2021 (finalzinho de 2021).
-Desde então troquei os jogos, animes e séries por cursos de **Desenvolvedor Front End na DevMedia.**
-Cursos, minha noiva :heart_eyes: e meus cachorros :dog2: são o suficiente para ocupar minha rotina de segunda a segunda (Amigos também!).
+Recentemente estou me qualifanco para Desenvolvedor Beck End usando linguagem Java.
 
 
 <!--LINKS DE ONDE ME ACHAR-->
