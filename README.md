@@ -4,7 +4,7 @@
 <!--DESCRIÇÃO PESSOAL-->
 
 Descobri programação no curso **técnico de informática** :computer: e na **faculdade de desenvolvimento de sistemas** :mortar_board:, mas via programação como um hobby.
-Recentemente estou me qualifanco para Desenvolvedor Beck End usando linguagem Java.
+Recentemente estou me qualificando para ser um Desenvolvedor Beck End usando linguagem Java.
 
 
 <!--LINKS DE ONDE ME ACHAR-->
