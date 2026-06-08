@@ -3,8 +3,8 @@
 
 <!--DESCRIÇÃO PESSOAL-->
 
-Descobri programação no curso **técnico de informática** :computer: e na **faculdade de desenvolvimento de sistemas** :mortar_board:, mas via programação como um hobby.
-Recentemente estou me qualificando para ser um Desenvolvedor Beck End usando linguagem Java.
+Desenvolvedor Full Stack usando linguagem Java + framework Spring para o Back End e linguagem TypeScritp + Angular para o Front End. Para o banco de dados utilizo SQL Oracle. Capaz de criar aplicações do zero, desde a analise de requisitos até a etapa de testes do sistema já pronto.
+Obviamente ainda não sei tudo e demoro mais do que gostaria para produzir um sistema, por isso estou sempre me "lapidando" com cursos na plataforma Alura, trocando experiências via Discord em grupos de programadores e lendo documentação com uma pequena ajuda das maravilhosas Inteligências Artificiais.
 
 
 <!--LINKS DE ONDE ME ACHAR-->
